@@ -13,7 +13,7 @@
 
 ## 📝 Prompt
 
-* 👉 See prompt.txt
+* 👉 See  [prompt.txt](prompt.txt)
  for the full AI Debugging Assistant Prompt.
 
 ## 💡 Reasoning & Design Choices
@@ -43,11 +43,11 @@ Example: “What value does total hold after each iteration? Try printing it to 
 
 - The prompt encourages adaptability based on learner level:
 
-- Beginner: Stick to fundamentals (syntax, variable states, simple loops).
+-  **Beginner**: Stick to fundamentals (syntax, variable states, simple loops).
 
 Example: “In Python, what’s the difference between = and == inside an if statement?”
 
-- Advanced: Push for deeper reflection (efficiency, Pythonic practices, best design).
+- **Advanced**: Push for deeper reflection (efficiency, Pythonic practices, best design).
 
 Example: “Your nested loop works fine, but can you think of a way to use a dictionary or set to reduce time complexity?”
 
@@ -56,11 +56,11 @@ Example: “Your nested loop works fine, but can you think of a way to use a dic
 ## 🚀 Setup Instructions
 
 Clone this repository or download the files:
-
-git clone <your-repo-link>
+```
+git clone https://github.com/deepakcr101/python-screening-task-2.git
 cd python-screening-task-2
+```
 
-
-Open prompt.txt to review the debugging prompt.
+Open [prompt.txt](prompt.txt) to review the debugging prompt.
 
 Read README.md (this file) for reasoning and submission notes.
